@@ -10,7 +10,9 @@ Line Of Business sample application
 
 #Backend:
 
-* RESTful API
-* Customer Datamodel
+- [x] REST API
+- [x] Employee datamodel
+- [x] Project datamodel
+
 
 #Frontend:

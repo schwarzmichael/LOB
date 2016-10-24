@@ -1,0 +1,13 @@
+{
+  "name": "LOBapp",
+  "version": "1.0.0",
+  "description": "Simple LOB app using Node.js, Express and MySQL",
+  "author": "schwarzmichael",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "mysql": "^2.9.0"
+  }
+}
