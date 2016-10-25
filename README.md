@@ -6,7 +6,6 @@ Line Of Business sample application
 * MySQL
 * Angular 2
 * Ember
-
 * NPM
 * Bower
 
@@ -22,4 +21,4 @@ Line Of Business sample application
 #Frontend:
 
 - [x] Basic Frontend with Ember.js
-- [] CRUD Functionality
+- [ ] CRUD Functionality
