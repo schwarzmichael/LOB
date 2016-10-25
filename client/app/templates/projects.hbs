@@ -1,0 +1,13 @@
+<h3>Projects</h3>
+<ul>
+{{#each model as |pr|}}
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">{{pr.name}}</h3>
+  </div>
+  <div class="panel-body">
+    {{pr.description}}
+  </div>
+</div>
+{{/each}}
+</ul>

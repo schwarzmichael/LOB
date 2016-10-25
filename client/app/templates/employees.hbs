@@ -1,0 +1,13 @@
+<h3>Employees</h3>
+<ul>
+{{#each model as |em|}}
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">{{em.firstName}} {{em.lastName}}</h3>
+  </div>
+  <div class="panel-body">
+    {{em.email}}
+  </div>
+</div>
+{{/each}}
+</ul>
