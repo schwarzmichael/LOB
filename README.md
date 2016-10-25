@@ -5,6 +5,10 @@ Line Of Business sample application
 * Express
 * MySQL
 * Angular 2
+* Ember
+
+* NPM
+* Bower
 
 ##Roadmap:
 
@@ -16,3 +20,6 @@ Line Of Business sample application
 
 
 #Frontend:
+
+- [x] Basic Frontend with Ember.js
+- [] CRUD Functionality
